@@ -164,6 +164,13 @@
         "prompt-engineering",
         "video-prompting-guide"
       ]
+    },
+    {
+      "title": "Agent Practice",
+      "description": "guides for how coding agents work, not what they build.",
+      "skills": [
+        "affirmations"
+      ]
     }
   ]
 }

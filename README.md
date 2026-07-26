@@ -109,6 +109,7 @@ Browse apps: `belt app store`
 | [writing](guides/writing/) | Blogs, case studies, newsletters |
 | [social](guides/social/) | LinkedIn, Twitter threads, carousels |
 | [product](guides/product/) | Competitor analysis, personas, launches |
+| [agent](guides/agent/) | Agent self-regulation when stuck or looping |
 
 ---
 

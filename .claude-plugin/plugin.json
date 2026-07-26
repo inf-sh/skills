@@ -35,6 +35,7 @@
         "music"
     ],
     "skills": [
+        "./guides/agent/affirmations/SKILL.md",
         "./guides/content/ai-automation-workflows/SKILL.md",
         "./guides/content/ai-content-pipeline/SKILL.md",
         "./guides/content/ai-podcast-creation/SKILL.md",

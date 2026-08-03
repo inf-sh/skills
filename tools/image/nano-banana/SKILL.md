@@ -33,7 +33,7 @@ belt app run google/gemini-3-pro-image-preview --input '{"prompt": "a banana in 
 ## Search Gemini Image Apps
 
 ```bash
-belt app store search "gemini image"
+belt app search "gemini image"
 ```
 
 ## Examples
@@ -137,7 +137,7 @@ npx skills add inference-sh/skills@ai-image-generation
 npx skills add inference-sh/skills@ai-video-generation
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 
 ## Documentation
 

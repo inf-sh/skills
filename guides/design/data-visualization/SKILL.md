@@ -210,5 +210,5 @@ npx skills add inference-sh/skills@technical-blog-writing
 npx skills add inference-sh/skills@competitor-teardown
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

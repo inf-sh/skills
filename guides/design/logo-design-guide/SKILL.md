@@ -187,5 +187,5 @@ npx skills add inference-sh/skills@ai-image-generation
 npx skills add inference-sh/skills@prompt-engineering
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

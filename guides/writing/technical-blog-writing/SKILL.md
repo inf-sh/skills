@@ -295,5 +295,5 @@ npx skills add inference-sh/skills@content-repurposing
 npx skills add inference-sh/skills@og-image-design
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

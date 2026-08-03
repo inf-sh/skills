@@ -32,7 +32,7 @@ Content, examples, and commands here.
 
 1. Create `skills/<skill-name>/SKILL.md`
 2. Write a clear description of when to use the skill
-3. Add working examples with real app IDs from `belt app store`
+3. Add working examples with real app IDs from `belt app list`
 4. Cross-reference related skills with `npx skills add` commands
 5. Test with `belt app run` to verify examples work
 
@@ -54,7 +54,7 @@ npx skills add inference-sh/skills@related-skill
 Apps change over time. To refresh:
 
 ```bash
-belt app store                    # All apps
-belt app store --category image   # By category
-belt app store search "flux"      # Search
+belt app list                    # All apps
+belt app list --category image   # By category
+belt app search "flux"      # Search
 ```

@@ -279,5 +279,5 @@ npx skills add inference-sh/skills@technical-blog-writing
 npx skills add inference-sh/skills@web-search
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

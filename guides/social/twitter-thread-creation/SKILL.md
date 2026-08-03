@@ -261,5 +261,5 @@ npx skills add inference-sh/skills@content-repurposing
 npx skills add inference-sh/skills@social-media-carousel
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

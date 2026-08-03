@@ -211,5 +211,5 @@ npx skills add inference-sh/skills@data-visualization
 npx skills add inference-sh/skills@ai-image-generation
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

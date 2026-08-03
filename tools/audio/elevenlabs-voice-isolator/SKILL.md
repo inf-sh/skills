@@ -137,4 +137,4 @@ npx skills add inference-sh/skills@elevenlabs-tts
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all audio apps: `belt app store --category audio`
+Browse all audio apps: `belt app list --category audio`

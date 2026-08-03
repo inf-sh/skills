@@ -84,7 +84,7 @@ npx skills add inference-sh/skills@flux-image
 npx skills add inference-sh/skills@image-upscaling
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 
 ## Documentation
 

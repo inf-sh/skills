@@ -321,5 +321,5 @@ npx skills add inference-sh/skills@ai-video-generation
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse audio apps: `belt app store --category audio`
+Browse audio apps: `belt app list --category audio`
 

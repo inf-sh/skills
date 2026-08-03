@@ -35,7 +35,7 @@ belt app run infsh/diffrythm --input '{"prompt": "upbeat electronic dance track"
 ## Browse Audio Apps
 
 ```bash
-belt app store --category audio
+belt app list --category audio
 ```
 
 ## Examples
@@ -127,7 +127,7 @@ npx skills add inference-sh/skills@ai-video-generation
 npx skills add inference-sh/skills@speech-to-text
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 
 ## Documentation
 

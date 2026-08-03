@@ -167,7 +167,7 @@ Video Edit is billed on input + output duration.
 ## Search HappyHorse Apps
 
 ```bash
-belt app store search "happyhorse"
+belt app search "happyhorse"
 ```
 
 ## Related Skills
@@ -189,7 +189,7 @@ npx skills add inference-sh/skills@google-veo
 npx skills add inference-sh/skills@ai-image-generation
 ```
 
-Browse all video apps: `belt app store --category video`
+Browse all video apps: `belt app list --category video`
 
 ## Documentation
 

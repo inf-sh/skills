@@ -266,5 +266,5 @@ npx skills add inference-sh/skills@background-removal
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 

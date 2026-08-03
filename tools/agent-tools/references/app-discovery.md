@@ -12,50 +12,50 @@ belt app list -l  # detailed
 ## Browse the Public Store
 
 ```bash
-belt app store
+belt app list
 ```
 
 ## Pagination
 
 ```bash
-belt app store --page 2
+belt app list --page 2
 ```
 
 ## Filter by Category
 
 ```bash
-belt app store --category image
-belt app store --category video
-belt app store --category audio
-belt app store --category text
-belt app store --category other
+belt app list --category image
+belt app list --category video
+belt app list --category audio
+belt app list --category text
+belt app list --category other
 ```
 
 ## Search the Store
 
 ```bash
-belt app store search "flux"
-belt app store search "video generation"
-belt app store search "tts" -l
-belt app store search "image" --category image
+belt app search "flux"
+belt app search "video generation"
+belt app search "tts" -l
+belt app search "image" --category image
 ```
 
 ## Featured Apps
 
 ```bash
-belt app store --featured
+belt app list --featured
 ```
 
 ## Newest First
 
 ```bash
-belt app store --new
+belt app list --new
 ```
 
 ## Detailed View
 
 ```bash
-belt app store -l
+belt app list -l
 ```
 
 Shows table with app name, category, description, and featured status.
@@ -63,7 +63,7 @@ Shows table with app name, category, description, and featured status.
 ## Save to File
 
 ```bash
-belt app store --save apps.json
+belt app list --save apps.json
 ```
 
 ## Get App Details

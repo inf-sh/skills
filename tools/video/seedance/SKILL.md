@@ -221,7 +221,7 @@ Token formula: `(width x height x fps x duration) / 1024`
 ## Search Seedance Apps
 
 ```bash
-belt app store search "seedance"
+belt app search "seedance"
 ```
 
 ## Related Skills
@@ -243,7 +243,7 @@ npx skills add inference-sh/skills@ai-image-generation
 npx skills add inference-sh/skills@ai-avatar-video
 ```
 
-Browse all video apps: `belt app store --category video`
+Browse all video apps: `belt app list --category video`
 
 ## Documentation
 

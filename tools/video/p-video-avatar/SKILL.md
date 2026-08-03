@@ -217,7 +217,7 @@ npx skills add inference-sh/skills@ai-video-generation
 npx skills add inference-sh/skills@ai-image-generation
 ```
 
-Browse all Pruna apps: `belt app store --search "pruna"`
+Browse all Pruna apps: `belt app list --search "pruna"`
 
 ## Documentation
 

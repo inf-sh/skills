@@ -289,5 +289,5 @@ npx skills add inference-sh/skills@ai-content-pipeline
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all apps: `belt app store --category audio`
+Browse all apps: `belt app list --category audio`
 

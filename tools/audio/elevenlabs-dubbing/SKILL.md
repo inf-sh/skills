@@ -150,4 +150,4 @@ npx skills add inference-sh/skills@elevenlabs-voice-changer
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all audio apps: `belt app store --category audio`
+Browse all audio apps: `belt app list --category audio`

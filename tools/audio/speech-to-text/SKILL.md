@@ -130,7 +130,7 @@ npx skills add inference-sh/skills@ai-video-generation
 npx skills add inference-sh/skills@ai-avatar-video
 ```
 
-Browse all audio apps: `belt app store --category audio`
+Browse all audio apps: `belt app list --category audio`
 
 ## Documentation
 

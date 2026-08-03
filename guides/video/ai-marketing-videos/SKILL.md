@@ -293,5 +293,5 @@ npx skills add inference-sh/skills@ai-social-media-content
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

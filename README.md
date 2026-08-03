@@ -68,7 +68,7 @@ cp -r tools/* ui/* sdk/* guides/* ~/.claude/skills/
 belt login
 ```
 
-Browse apps: `belt app store`
+Browse apps: `belt app list`
 
 ---
 

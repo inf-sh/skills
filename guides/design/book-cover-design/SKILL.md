@@ -217,5 +217,5 @@ npx skills add inference-sh/skills@prompt-engineering
 npx skills add inference-sh/skills@image-upscaling
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

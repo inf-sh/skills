@@ -130,7 +130,7 @@ npx skills add inference-sh/skills@p-video
 npx skills add inference-sh/skills@flux-image
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 
 ## Documentation
 

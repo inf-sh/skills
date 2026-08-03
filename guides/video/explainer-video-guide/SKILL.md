@@ -233,5 +233,5 @@ npx skills add inference-sh/skills@text-to-speech
 npx skills add inference-sh/skills@prompt-engineering
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

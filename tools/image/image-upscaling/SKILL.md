@@ -71,7 +71,7 @@ npx skills add inference-sh/skills@flux-image
 npx skills add inference-sh/skills@background-removal
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 
 ## Documentation
 

@@ -239,7 +239,7 @@ npx skills add inference-sh/skills@prompt-engineering
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all video apps: `belt app store --category video`
+Browse all video apps: `belt app list --category video`
 
 ## Documentation
 

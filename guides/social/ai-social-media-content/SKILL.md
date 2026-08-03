@@ -252,5 +252,5 @@ npx skills add inference-sh/skills@text-to-speech
 npx skills add inference-sh/skills@infsh-cli
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 

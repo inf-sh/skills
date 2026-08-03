@@ -198,7 +198,7 @@ npx skills add inference-sh/skills@infsh-cli
 npx skills add inference-sh/skills@ai-image-generation
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 
 ## Documentation
 

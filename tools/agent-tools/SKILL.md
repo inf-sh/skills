@@ -77,9 +77,9 @@ belt app run x/post-create --input '{"text": "Check this out!", "media": "./scre
 
 | Task | Command |
 |------|---------|
-| Browse the app store | `belt app store` |
-| Search apps | `belt app store search "flux"` |
-| Filter by category | `belt app store --category image` |
+| Browse the app store | `belt app list` |
+| Search apps | `belt app search "flux"` |
+| Filter by category | `belt app list --category image` |
 | Get app details | `belt app get google/veo-3-1-fast` |
 | Generate sample input | `belt app sample google/veo-3-1-fast --save input.json` |
 | Run app | `belt app run google/veo-3-1-fast --input input.json` |

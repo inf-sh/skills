@@ -31,14 +31,14 @@ curl -fsSL https://cli.inference.sh | sh
 
 | Command | Description |
 |---------|-------------|
-| `belt app store` | Browse the public app store |
-| `belt app store --category <cat>` | Filter by category (image, video, audio, text, other) |
-| `belt app store search <query>` | Search the store |
-| `belt app store --featured` | Show featured apps |
-| `belt app store --new` | Sort by newest |
-| `belt app store --page <n>` | Pagination |
-| `belt app store -l` | Detailed table view |
-| `belt app store --save <file>` | Save to JSON file |
+| `belt app list` | Browse the public app store |
+| `belt app list --category <cat>` | Filter by category (image, video, audio, text, other) |
+| `belt app search <query>` | Search the store |
+| `belt app list --featured` | Show featured apps |
+| `belt app list --new` | Sort by newest |
+| `belt app list --page <n>` | Pagination |
+| `belt app list -l` | Detailed table view |
+| `belt app list --save <file>` | Save to JSON file |
 | `belt app get <app>` | Get app details |
 | `belt app get <app> --json` | Get app details as JSON |
 

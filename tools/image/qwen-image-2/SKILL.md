@@ -33,7 +33,7 @@ belt app run alibaba/qwen-image-2 --input '{"prompt": "A serene mountain landsca
 ## Search Qwen Image Apps
 
 ```bash
-belt app store search "qwen image"
+belt app search "qwen image"
 ```
 
 ## Examples
@@ -176,7 +176,7 @@ npx skills add inference-sh/skills@ai-image-generation
 npx skills add inference-sh/skills@ai-video-generation
 ```
 
-Browse all image apps: `belt app store --category image`
+Browse all image apps: `belt app list --category image`
 
 ## Documentation
 

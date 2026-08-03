@@ -224,5 +224,5 @@ npx skills add inference-sh/skills@ai-podcast-creation
 npx skills add inference-sh/skills@ai-avatar-video
 ```
 
-Browse all apps: `belt app store`
+Browse all apps: `belt app list`
 
